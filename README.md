@@ -1,2 +1,2 @@
-# UPG
+# UPG.github.io
 UPG
